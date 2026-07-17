@@ -1,0 +1,11 @@
+Prompt:
+
+Create professional website content for a modern dental clinic.
+
+The website should include:
+1. Homepage
+2. Services
+3. Call-to-Action (CTA)
+
+The tone should be friendly, trustworthy, and professional.
+The content should be simple and suitable for patients of all ages.
